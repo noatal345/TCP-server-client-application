@@ -23,7 +23,7 @@ If the user enters invalid input the program will print "Invalid input" to the s
 Compile and run the server:  
 for server run `./server.out [Port number]`  
 
-<img width="119" alt="213941242-e6e6a74c-82cc-4468-ac0b-4db45a32b14f" src="https://github.com/noatal345/TCP-server-client-application/assets/72741540/e5885da8-0792-4938-bb8b-383a4e4d772c">
+<img src="https://user-images.githubusercontent.com/72741540/213941242-e6e6a74c-82cc-4468-ac0b-4db45a32b14f.png" width="300" height="50">
 
 
 Run the Client:  
