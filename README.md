@@ -30,6 +30,6 @@ Run the Client:
 for client run `./client.out [IP number] [Port number]` 
 
 <img src="https://user-images.githubusercontent.com/72741540/213940985-849bc4f1-a73a-4e75-982a-4d29cf71b489.png" width="500" height="500">  
-<img width="175" alt="213941016-71b4c603-ef4c-4292-9303-1c68e92c9abf" src="https://github.com/noatal345/TCP-server-client-application/assets/72741540/5f4689f8-ed2b-4162-8871-3bfe548f9498">
+<img width="400" height="500" alt="213941016-71b4c603-ef4c-4292-9303-1c68e92c9abf" src="https://github.com/noatal345/TCP-server-client-application/assets/72741540/5f4689f8-ed2b-4162-8871-3bfe548f9498">
 
 
